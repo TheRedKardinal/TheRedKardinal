@@ -31,7 +31,7 @@ I'm **open to work** as a junior frontend, backend or full-stack developer — o
 
 ## 📫 Contacts
 
-[LinkedIn](https://www.linkedin.com/in/claudio-giasi-8836b5243/)
+[LinkedIn](https://www.linkedin.com/in/claudio-giasi/)
 
 ---
 
@@ -59,6 +59,6 @@ Sono **disponibile a lavorare** come sviluppatore junior frontend, backend o ful
 - [**Social Network API**](https://github.com/TheRedKardinal/Progetto-Backend-Settimana-3) — API REST con autenticazione JWT e autorizzazione per ruoli e proprietà.
 - [**Chat in tempo reale con IA**](https://github.com/TheRedKardinal/progetto-unit5-settimana2) — chat via WebSocket con suggerimenti di risposta generati dall'IA.
 
-**Contatti:** [LinkedIn](https://www.linkedin.com/in/claudio-giasi-8836b5243/)
+**Contatti:** [LinkedIn](https://www.linkedin.com/in/claudio-giasi/)
 
 </details>
